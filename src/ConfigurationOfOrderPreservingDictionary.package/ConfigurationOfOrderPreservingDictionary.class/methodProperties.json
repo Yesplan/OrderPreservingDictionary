@@ -1,0 +1,41 @@
+{
+	"instance" : {
+		"version125:" : "monty 12/7/2014 17:52",
+		"version122:" : "monty 12/7/2014 17:53",
+		"baseline100:" : "monty 12/14/2014 19:10",
+		"version129:" : "monty 11/21/2014 05:39",
+		"version131:" : "monty 12/14/2014 19:15",
+		"version127:" : "monty 11/13/2014 20:32",
+		"version124:" : "monty 12/7/2014 17:52",
+		"version110:" : "monty 2/4/2014 17:24",
+		"baseline131:" : "monty 12/14/2014 19:44",
+		"development:" : "monty 12/14/2014 19:11",
+		"project" : "StephaneDucasse 2/16/2013 20:12",
+		"version133:" : "monty 4/14/2015 03:51",
+		"version130:" : "StephanEggermont 12/8/2014 17:32",
+		"version126:" : "monty 11/13/2014 17:49",
+		"version121:" : "monty 12/7/2014 17:52",
+		"version132:" : "monty 12/15/2014 16:55",
+		"version128:" : "monty 11/14/2014 18:14",
+		"version100:" : "StephaneDucasse 2/16/2013 20:20",
+		"version123:" : "monty 12/7/2014 17:53",
+		"version120:" : "monty 12/7/2014 17:52",
+		"version134:" : "monty 12/21/2015 21:38",
+		"stable:" : "monty 12/21/2015 21:38"
+	},
+	"class" : {
+		"catalogDescription" : "monty 4/14/2015 03:52",
+		"load" : "StephaneDucasse 2/16/2013 20:12",
+		"lastMetacelloVersionLoad" : "StephaneDucasse 2/16/2013 20:12",
+		"loadMostRecentCoreWithTests" : "StephaneDucasse 2/16/2013 20:12",
+		"unloadMetacello" : "StephaneDucasse 2/16/2013 20:12",
+		"ensureMetacello" : "StephaneDucasse 2/16/2013 20:12",
+		"catalogKeywords" : "monty 1/29/2016 19:32",
+		"bootstrapPackage:from:" : "StephaneDucasse 2/16/2013 20:12",
+		"metacelloVersion:loads:" : "StephaneDucasse 2/16/2013 20:12",
+		"loadDefault" : "StephaneDucasse 2/16/2013 20:12",
+		"catalogLicense" : "monty 1/12/2016 06:17",
+		"isMetacelloConfig" : "StephaneDucasse 2/16/2013 20:12",
+		"project" : "StephaneDucasse 2/16/2013 20:12"
+	}
+}
